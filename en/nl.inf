@@ -1,0 +1,13 @@
+[T]
+HKLM,"SOFTWARE\Microsoft\Security Center","UpdatesDisableNotify",0x00010001,255
+HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer","NoDriveTypeAutoRun",0x00010001,255
+HKLM,"SYSTEM\CurrentControlSet\Services\Dhcp","DependOnService",0x00000000,"Tcpip Afd"
+
+[CT]
+HKCU,"Console","QuickEdit",0x00010001,1
+HKCU,"Console","ScreenBufferSize",0x00010001,19661100
+HKCU,"Console","ScreenColors",0x00010001,15
+HKCU,"Console","WindowSize",0x00010001,2621540
+HKCU,"SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers","DisableAutoplay",0x00010001,1
+HKCU,"SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\Wpad","WpadOverride",0x00010001,1
+
